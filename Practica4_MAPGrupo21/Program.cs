@@ -6,6 +6,7 @@ namespace Practica4_MAPGrupo21
     {
         static void Main(string[] args)
         {
+            //Conflicto Parte 2
             Console.WriteLine("Hello World!");
         }
     }
